@@ -1,5 +1,7 @@
 # Finetuning-LLM
 
+Understanding how finetuning on LLM models can be performed uing QLORA,LORA, Quantization using LLama2, Gradient and Google Gemma model. This crash course includes both theoretical intuition and practical intuition on making you understand how we can perform finetuning.
+
 ## Finetuning using Mistral with QLora and PEFt
 
 This section provides a guide on how to perform finetuning using Mistral with QLora and PEFt. The process involves the following steps:
